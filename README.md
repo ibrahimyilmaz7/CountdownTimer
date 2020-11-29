@@ -7,4 +7,4 @@ Add <code>CountdownTimerView.swift</code> file to your project and then simply u
 
 ## Example Output
 
-<img src="./preview.png" width="350"></img>
+<img src="./preview.png" width="350"></img><img src="./preview_light.png" width="350"></img>
